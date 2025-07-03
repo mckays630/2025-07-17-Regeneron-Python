@@ -336,11 +336,11 @@ change the value of `carpentry` to `incubator`.
     <td>Lunch break</td>
   </tr>
   <tr>
-    <td>12:30</td>
+    <td>13:00</td>
     <td>Python Part 2</td>
   </tr>
   <tr> 
-    <td>14:45</td>  
+    <td>15:45</td>  
       <td>
         <ul>
           <li>Wrap-up</li>
@@ -349,7 +349,7 @@ change the value of `carpentry` to `incubator`.
     </td> 
   </tr>
   <tr> 
-    <td>15:00</td>
+    <td>16:00</td>
     <td>END</td>
   </tr>
 </table>
